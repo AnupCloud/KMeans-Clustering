@@ -5,8 +5,8 @@
  K-Means Clustering - Unsupervised Machine Learning
 Task: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
-Libraries Used: Scikit Learn, Pandas, Numpy
+.Libraries Used: Scikit Learn, Pandas, Numpy
 
-Dataset: Iris Dataset
+.Dataset: Iris Dataset
 
-Complete Video Link: YouTube:
+.Complete Video Link: YouTube:
